@@ -1,4 +1,4 @@
 swa
 ===
 
-Open source SimpleWebApps projects
+Open source SimpleWebApps JavaScript/jQuery utilities
